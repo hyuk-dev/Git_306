@@ -15,5 +15,9 @@ public class GoodsService {
 		// TODO Auto-generated method stub
 		
 	}
+	
+	public void update() {
+		System.out.println();
+	}
 
 }
