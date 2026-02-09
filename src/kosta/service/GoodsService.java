@@ -8,6 +8,7 @@ public class GoodsService {
 	
 	public void select() {
 		System.out.println("select 추가...");
+		System.out.println("select 정상 작동");
 	}
 	
 	public static void main(String[] args) {
