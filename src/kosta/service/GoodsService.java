@@ -10,6 +10,10 @@ public class GoodsService {
 		System.out.println("select 추가...");
 		System.out.println("select 정상 작동");
 	}
+
+	public void delete() {
+		System.out.println("remote에서 delete 수정");
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
