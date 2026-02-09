@@ -9,6 +9,7 @@ public class GoodsController {
 	public void test() {
 		System.out.println(i);
 		System.out.println(i);
+		System.out.println(i);
 	}
 
 }
