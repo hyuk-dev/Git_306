@@ -13,6 +13,8 @@ public class GoodsService {
 		System.out.println("conflict 테스트");
 
 		System.out.println("원격에서 수정 conflict");
+		
+		System.out.println("강의실에서 수정함.");
 
 	}
 
