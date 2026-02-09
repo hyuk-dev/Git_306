@@ -9,6 +9,7 @@ public class GoodsService {
 	public void select() {
 		System.out.println("select 추가...");
 		System.out.println("select 정상 작동");
+		System.out.println("conflict 테스트");
 	}
 
 	public void delete() {
