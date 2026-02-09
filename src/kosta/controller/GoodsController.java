@@ -10,6 +10,7 @@ public class GoodsController {
 		System.out.println(i);
 		System.out.println(i);
 		System.out.println(i);
+		System.out.println("원격에서 test추가함 - 시나리오 5번 테스트");
 	}
 
 }
